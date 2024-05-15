@@ -1,0 +1,1 @@
+ce projet permet de créer un FastAPI avec DOCKER
